@@ -1,0 +1,12 @@
+{
+    "name": "jaydenok/coroutine-server",
+    "authors": [
+        {
+            "name": "JaydenOK",
+            "email": "603480498@qq.com"
+        }
+    ],
+    "require": {
+        "easyswoole/elasticsearch": "^1.0"
+    }
+}
